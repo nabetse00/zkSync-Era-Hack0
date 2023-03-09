@@ -5,7 +5,7 @@ date:   2023-03-09 13:55:03 +0100
 categories: 
 ---
 
-# intro
+# Intro
 
 During my exploration of the tech stack, I have learned about Zero-knowledge proofs, specifically in the context of the ZK Rollup solution provided by zkSync. zkSync is a layer 2 scaling solution for Ethereum that uses ZK Rollups to increase the throughput of the Ethereum network while maintaining its security and decentralization properties.
 

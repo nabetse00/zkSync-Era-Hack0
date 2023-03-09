@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "#zkSyncEra∎Hack: what is zkSync?"
+title:  "#zkSyncEra∎Hack: what is Argent?"
 date:   2023-03-09 13:55:03 +0100
 categories: 
 ---
 
-# intro
+![Argent Wallet](/media/argent-logo.png)
+
+# Intro
 Argent is a mobile-based digital wallet that allows users to store, manage, and exchange cryptocurrencies. With its user-friendly interface and strong security features, Argent is quickly becoming a popular choice for individuals who want to manage their crypto assets on-the-go. In this blog post, we will provide a tutorial and cheat sheet for using the Argent wallet.
 
 # Getting Started
@@ -41,3 +43,8 @@ Not that there is 48H delay to retore your account.
 # Conclusion
 
 Argent is a user-friendly and secure digital wallet that makes it easy to manage your crypto assets on-the-go. By following the steps outlined in this tutorial, you can create an account, manage your assets, and take advantage of the app's security features. With Argent, you can have peace of mind knowing that your crypto assets are safe and secure.
+
+# Links
+
+- [Argent docs](https://docs.argent.xyz/)
+- [argent website](https://docs.argent.xyz/)

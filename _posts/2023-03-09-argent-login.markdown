@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "zkSyncEra∎Hack: what is Argent?"
-date:   2023-03-09 13:55:03 +0100
+date:   2023-03-09 13:58:12 +0100
 categories: 
 ---
 

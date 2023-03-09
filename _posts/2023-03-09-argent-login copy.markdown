@@ -5,7 +5,7 @@ date:   2023-03-09 14:24:07 +0100
 categories: 
 ---
 
-![Argent Wallet button](/zkSync-Era-Hack0/media/media/button-login.png)
+![Argent Wallet button](/zkSync-Era-Hack0/media/button-login.png)
 
 # Intro
 If you're developing a website or web application that involves cryptocurrency transactions, integrating a login button for the Argent wallet can be a convenient way to allow users to sign in and interact with your platform. In this blog post, we'll provide a step-by-step guide for creating an Argent wallet login button using the Web3Modal library.
@@ -101,6 +101,7 @@ Refer to:
 - [Argent Wagmi Custom Connector Source code](https://github.com/nabetse00/argent-wagmi-connector)
 - [Example of usage from a react-ts template](https://github.com/nabetse00/test-argent-wagmi-connector)
 
+# Demo 
 
-
+![Demo](https://user-images.githubusercontent.com/4185026/223785910-99a3cc8f-c1ee-4223-b918-09a86d511409.gif)
 

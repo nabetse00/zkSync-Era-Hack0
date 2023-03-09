@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "#zkSyncEra∎Hack: what is zkSync?"
+title:  "zkSyncEra∎Hack: what is zkSync?"
 date:   2023-03-09 13:55:03 +0100
 categories: 
 ---

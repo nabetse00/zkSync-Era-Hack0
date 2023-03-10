@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "zkSyncEra∎Hack: Argent integration with ConnectKit"
+title:  "Argent integration WalletConnect V2 issue issues"
 date:   2023-03-10 14:41:19 +0100
 categories: 
 ---

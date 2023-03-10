@@ -11,10 +11,11 @@ categories:
 
 With the launch of WalletConnect V2 and wagmi update to 0.12 version, integrating a custom wallet to ConnectKit has become more difficult. 
 
-This is because the new version of Wagmi now `requires a projectId from WalletConnect`. As a result, users are having a anyone using their own client configuration will experience issues.
+This is because the new version of Wagmi now `requires a projectId from WalletConnect`. As a result, users 
+having their own client configuration will experience issues.
 
-ConnectKit developper decided to delay the update until they find a 
-suitable stategy to overcome this problem.
+ConnectKit developers decided to delay the update until they find a 
+suitable strategy to overcome this problem.
 
 See [this PR](https://github.com/family/connectkit/pull/148) for more details.
 

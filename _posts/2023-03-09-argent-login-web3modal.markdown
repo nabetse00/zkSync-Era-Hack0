@@ -94,12 +94,16 @@ from `npm i @argent/login`
 
 This was done adding a custom wagmi wallet connector.
 
+This way we can add a direct argent login button to **any**
+multi wallet SDK that supports wagmi protocol.
+
+
 # Source code and details
 
 Refer to:
 
 - [Argent Wagmi Custom Connector Source code](https://github.com/nabetse00/argent-wagmi-connector)
-- [Example of usage from a react-ts template](https://github.com/nabetse00/test-argent-wagmi-connector)
+- [Example of usage from a react-ts template](https://github.com/nabetse00/test-argent-wagmi-connector) with web3modal
 
 # Demo 
 

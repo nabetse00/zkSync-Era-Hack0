@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Argent integration WalletConnect V2 issue issues"
+title:  "Argent integration WalletConnect V2 issues"
 date:   2023-03-10 12:41:19 +0100
 categories: 
 ---
